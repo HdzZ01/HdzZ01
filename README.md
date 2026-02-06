@@ -12,5 +12,6 @@ Focado na transição da área industrial e infraestrutura para Análise de Dado
 [cite_start]Tenho histórico com suporte técnico de redes na Abase e metrologia/usinagem na Jacto. Essa vivência me deu uma base sólida em resolução de problemas reais, processos técnicos rigorosos e capacidade de trabalhar sob pressão. 
 
 ### Contato:
-- f.pedrolucas.2002@gmail.com 
+- f.pedrolucas.2002@gmail.com
+- +55 (14)99113-2420
 - Pompeia / SP
