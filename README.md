@@ -9,8 +9,8 @@ Focado na transição da área industrial e infraestrutura para Análise de Dado
 * Automatização de análises matemáticas e estatísticas com Python.
 
 ### Experiência de base:
-[cite_start]Tenho histórico com suporte técnico de redes na Abase e metrologia/usinagem na Jacto. [cite: 25, 20] [cite_start]Essa vivência me deu uma base sólida em resolução de problemas reais, processos técnicos rigorosos e capacidade de trabalhar sob pressão. [cite: 43]
+[cite_start]Tenho histórico com suporte técnico de redes na Abase e metrologia/usinagem na Jacto. Essa vivência me deu uma base sólida em resolução de problemas reais, processos técnicos rigorosos e capacidade de trabalhar sob pressão. 
 
 ### Contato:
-- [cite_start]f.pedrolucas.2002@gmail.com [cite: 2]
+- f.pedrolucas.2002@gmail.com 
 - Pompeia / SP
